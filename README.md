@@ -1,4 +1,4 @@
-<h1> Hello Everyone, I am Samarth Talawar, you can also call me Sam War.<br>
+<h1 align = "center"> Hello Everyone, I am Samarth Talawar, you can also call me Sam War.<br>
 I dont know coding, but I still code, for which you can also call me a noob coder.<br>
 I love various things like Coding, Astropyisics, Mathematics, Science, Quantum Mechanins, and Physics.
 </h1>
