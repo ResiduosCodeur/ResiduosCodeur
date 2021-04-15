@@ -2,7 +2,7 @@
 I dont know coding, but I still code, for which you can also call me a noob coder.<br>
 I love various things like Coding, Astropyisics, Mathematics, Science, Quantum Mechanins, and Physics.
 </h1>
-<h2>
+<h2 align = "center">
 You can also find me on: <br> <br>
 	<a  href = "https://www.instagram.com/tamarth_salawar/"> 
 	<img src = "https://miro.medium.com/max/5363/1*V7GYJQ_4lykfDzOf9q17eA.jpeg" height = "200"> <br>
