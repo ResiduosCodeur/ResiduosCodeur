@@ -13,6 +13,6 @@ You can also find me on: <br> <br>
 </h2>
 <h2 align = "center">
 	<img src = "https://yt3.ggpht.com/ytc/AAUvwniEUaBNWbH9Pk7A1cmIBdxnYt0YYrgNKx5h8grSMA=s900-c-k-c0x00ffffff-no-rj" height = "200"> <br>
-	samarth t#1755
+	SamWar#1755
 	
 </h2>
