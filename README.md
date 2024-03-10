@@ -1,6 +1,4 @@
-<h1 align = "center"> Hello Everyone, I am Samarth Talawar, you can also call me Sam War.<br>
-I dont know coding, but I still code, for which you can also call me a noob coder.<br>
-I love various things like Coding, Astropyisics, Mathematics, Science, Quantum Mechanins, and Physics.
+<h1 align = "center">Hello, Samarth here!<br>
 </h1>
 <h2 align = "center"> You can find my main repository here: https://github.com/ResiduosCodeur/Programmes </h2>
 <h2 align = "center">
