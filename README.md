@@ -1,6 +1,5 @@
 <h1 align = "center">Hello, Samarth here!<br>
 </h1>
-<h2 align = "center"> You can find my main repository here: https://github.com/ResiduosCodeur/Programmes </h2>
 <h2 align = "center">
 You can also find me on: <br> <br>
 	<a  href = "https://www.instagram.com/tamarth_salawar/"> 
