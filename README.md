@@ -15,40 +15,24 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,rust,go,python,js,ts&perline=7" />
-</p>
-
-### Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,prisma&perline=5" />
-</p>
-
-### Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&perline=5" />
-</p>
-
-### Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,postman&perline=6" />
-</p>
-
----
-
 ## 📌 Featured Projects
 
 - 🔒 **[LockBox](https://github.com/ResiduosCodeur/Lockbox)** — Secure Windows file encryption tool in Rust.
 - 🌐 **[dVPN](https://github.com/ResiduosCodeur/dVPN)** — Decentralized VPN with P2P networking and blockchain incentives.
 - 📊 **[Cricfeed](https://github.com/ResiduosCodeur/Cricfeed)** — AI-powered cricket analytics platform using PostgreSQL.
 - 💰 **[TrackIt](https://github.com/ResiduosCodeur/Trackit)** — Expense sharing and group settlement platform.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ResiduosCodeur&theme=2077" />
+<br/><br/>
+<img height="200" src="https://streak-stats.demolab.com/?user=ResiduosCodeur&theme=github-dark" />
+
+</div>
 
 ---
 
@@ -62,15 +46,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-<div align="center">
-
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ResiduosCodeur&theme=2077" />
-<br/><br/>
-<img height="200" src="https://streak-stats.demolab.com/?user=ResiduosCodeur&theme=github-dark" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,rust,go,python,js,ts,nodejs,express,mysql,postgres,prisma,react,nextjs,tailwind,html,css,figma,git,github,linux,docker,vscode,postman" />
+</p>
 
 ---
 
