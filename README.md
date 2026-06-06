@@ -67,10 +67,9 @@
 <div align="center">
 
 <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ResiduosCodeur&theme=2077" />
-
+<br/><br/>
 <img height="200" src="https://streak-stats.demolab.com/?user=ResiduosCodeur&theme=github-dark" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ResiduosCodeur&theme=2077" />
 </div>
 
 ---
