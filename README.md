@@ -1,8 +1,8 @@
-# Hi, I'm Samarth 👋
+<h1 align="center">Hi, I'm Samarth 👋</h1>
 
-Backend & Systems Programming Enthusiast
-
-Building secure software, backend systems, and developer tools.
+<p align="center">
+  <strong>I'm a Tech Enthusiast curious about how things work and passionate about turning ideas into software and challenges into opportunities to learn.</strong>
+</p>
 
 ---
 
