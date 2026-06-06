@@ -62,11 +62,19 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ResiduosCodeur&show_icons=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ResiduosCodeur&layout=compact)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ResiduosCodeur&theme=2077" />
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ResiduosCodeur&theme=github-dark)](https://git.io/streak-stats)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ResiduosCodeur&theme=github_dark" />
+
+</div>
 
 ---
 
