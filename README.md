@@ -45,50 +45,10 @@ Building secure software, backend systems, and developer tools.
 
 ## 📌 Featured Projects
 
-### 🔒 <a href = "https://github.com/ResiduosCodeur/Lockbox"> LockBox </a>
-Secure Windows File Encryption Tool built with Rust.
-
-**Features**
-- AES-256 Encryption
-- Argon2 Password Hashing
-- Recovery Keys
-- Streaming Encryption
-- Windows Explorer Integration
-
----
-
-### 🌐<a href = "https://github.com/ResiduosCodeur/dVPN"> dVPN</a>
-Decentralized VPN project focused on networking and systems programming.
-
-**Features**
-- Peer-to-peer networking
-- Secure communication
-- Efficient routing
-- Distributed architecture
-- Blockchain technology for node registry and incentives
-
----
-
-### 📊<a href = "https://github.com/ResiduosCodeur/Cricfeed"> Cricfeed</a>
-
-Cricket Analytics Platform powered by PostgreSQL and AI.
-
-**Features**
-- Player statistics
-- Match insights
-- AI-powered analysis
-- Historical data tracking
-
-### 💰 <a href="https://github.com/ResiduosCodeur/Trackit">TrackIt</a>
-
-Expense Sharing and Group Settlement Platform.
-
-**Features**
-- Group expense management
-- Smart balance calculation
-- Settlement tracking
-- Google OAuth authentication
-- MySQL-backed transaction storage
+- 🔒 **[LockBox](https://github.com/ResiduosCodeur/Lockbox)** — Secure Windows file encryption tool in Rust.
+- 🌐 **[dVPN](https://github.com/ResiduosCodeur/dVPN)** — Decentralized VPN with P2P networking and blockchain incentives.
+- 📊 **[Cricfeed](https://github.com/ResiduosCodeur/Cricfeed)** — AI-powered cricket analytics platform using PostgreSQL.
+- 💰 **[TrackIt](https://github.com/ResiduosCodeur/Trackit)** — Expense sharing and group settlement platform.
 
 ---
 
