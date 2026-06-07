@@ -44,6 +44,6 @@
 
 ---
 
-## 📬 Contact Me
+## 📬 Contact
 
 📧 samarthpt216@gmail.com
