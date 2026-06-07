@@ -9,9 +9,9 @@
 ## 🚀 About Me
 
 - 🎓 Student passionate about Systems Programming and Full Stack Development
-- 🦀 Learning and building with Rust, Go, C++, and JavaScript
-- 🔐 Interested in Security, Operating Systems, and Distributed Systems
-- 🌱 Exploring Open Source
+- 🔐 Learning and building in Security, Operating Systems, and Distributed Systems
+- 🦀 Exploring Rust Ecosystem
+- 🌱 Exploring Free and Open-Source Software
 
 ---
 
@@ -33,16 +33,6 @@
 <img height="200" src="https://streak-stats.demolab.com/?user=ResiduosCodeur&theme=github-dark" />
 
 </div>
-
----
-
-## 📚 Currently Learning
-
-- Rust Ecosystem
-- Distributed Systems
-- Database Internals
-- Operating Systems
-- Free and Open Source Systems
 
 ---
 
