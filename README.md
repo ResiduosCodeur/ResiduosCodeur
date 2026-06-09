@@ -15,7 +15,7 @@
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
 
 - 🔒 **[LockBox](https://github.com/ResiduosCodeur/Lockbox)** — Secure Windows file encryption tool in Rust.
 - 🌐 **[dVPN](https://github.com/ResiduosCodeur/dVPN)** — Decentralized VPN with P2P networking and blockchain incentives.
