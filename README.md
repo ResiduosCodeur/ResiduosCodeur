@@ -43,8 +43,4 @@
   <img src="https://skillicons.dev/icons?i=cpp,c,rust,go,python,js,ts,nodejs,express,mysql,postgres,prisma,react,nextjs,tailwind,html,css,figma,git,github,linux,docker,vscode,postman,vercel" />
 </p>
 
----
 
-## 📬 Contact
-
-📧 Email - samarthpt216@gmail.com
