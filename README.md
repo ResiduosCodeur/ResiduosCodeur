@@ -26,13 +26,14 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-psi-sepia-84.vercel.app/api?username=ResiduosCodeur&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="37%" src="https://github-readme-stats-psi-sepia-84.vercel.app/api/top-langs/?username=ResiduosCodeur&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ResiduosCodeur&theme=2077" />
-<br/><br/>
-<img height="200" src="https://streak-stats.demolab.com/?user=ResiduosCodeur&theme=github-dark" />
-
-</div>
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=ResiduosCodeur&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
