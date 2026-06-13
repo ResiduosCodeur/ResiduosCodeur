@@ -11,7 +11,7 @@
 - 🎓 Student passionate about Systems Programming and Full Stack Development
 - 🔐 Learning and building in Security, Operating Systems, and Distributed Systems
 - 🦀 Exploring Rust Ecosystem
-- 🌱 Exploring Free and Open-Source Software
+- 🌱 Exploring Open Source
 
 ---
 
