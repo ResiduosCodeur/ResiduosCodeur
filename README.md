@@ -1,4 +1,4 @@
-<h1 align="center">Hi, Samarth here👋</h1>
+<h1 align="center">Hi, Samarth here!</h1>
 
 <p align="center">
   <strong>I'm a Tech Enthusiast curious about how things work and passionate about turning ideas into software and challenges into opportunities to learn.</strong>
