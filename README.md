@@ -16,7 +16,7 @@
 
 ## 📌 Projects
 
-- 🔒 **[LockBox](https://github.com/ResiduosCodeur/Lockbox)** — Secure Windows file encryption tool in Rust.
+- 🔒 **[Lockbox](https://github.com/ResiduosCodeur/Lockbox)** — Secure Windows file encryption tool in Rust.
 - 🌐 **[dVPN](https://github.com/ResiduosCodeur/dVPN)** — Decentralized VPN with P2P Networking and Blockchain incentives using Golang and Solidity.
 - 📊 **[Cricfeed](https://github.com/ResiduosCodeur/Cricfeed)** — AI-powered cricket analytics platform using PostgreSQL.
 - 💰 **[TrackIt](https://github.com/ResiduosCodeur/Trackit)** — Expense sharing and group settlement platform.
