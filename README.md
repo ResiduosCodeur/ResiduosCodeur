@@ -26,7 +26,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-psi-sepia-84.vercel.app/api?username=ResiduosCodeur&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-psi-sepia-84.vercel.app/api?username=ResiduosCodeur&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" />
   <img width="37%" src="https://github-readme-stats-psi-sepia-84.vercel.app/api/top-langs/?username=ResiduosCodeur&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
