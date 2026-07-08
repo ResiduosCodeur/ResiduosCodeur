@@ -26,12 +26,24 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-psi-sepia-84.vercel.app/api?username=ResiduosCodeur&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" />
-  <img width="37%" src="https://github-readme-stats-psi-sepia-84.vercel.app/api/top-langs/?username=ResiduosCodeur&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    width="46%"
+    height="270px"
+    src="https://github-readme-stats-psi-sepia-84.vercel.app/api?username=ResiduosCodeur&show_icons=true&theme=radical&hide_border=true&hide_rank=true"
+  />
+  <img
+    width="46%"
+     height="260px"
+    src="https://github-readme-stats-psi-sepia-84.vercel.app/api/top-langs/?username=ResiduosCodeur&layout=compact&theme=radical&hide_border=true&langs_count=10"
+  />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=ResiduosCodeur&theme=tokyonight&hide_border=true" />
+  <img
+    width="82%"
+    height="270px"
+    src="https://streak-stats.demolab.com?user=ResiduosCodeur&theme=radical&hide_border=true"
+  />
 </p>
 
 ---
