@@ -26,18 +26,18 @@
 
 <p align="center">
   <img
-    width="40%"
+    width="45%"
     src="https://github-readme-stats-psi-sepia-84.vercel.app/api?username=ResiduosCodeur&show_icons=true&theme=radical&hide_border=true&hide_rank=true&card_height=250&hide_title=true"
   />
   <img
-    width="30%"
+    width="35%"
     src="https://github-readme-stats-psi-sepia-84.vercel.app/api/top-langs/?username=ResiduosCodeur&layout=compact&theme=radical&hide_border=true&langs_count=10&card_height=250&hide_title=true"
   />
 </p>
 
 <p align="center">
   <img
-    width="60%"
+    width="80%"
     src="https://streak-stats.demolab.com?user=ResiduosCodeur&theme=radical&hide_border=true"
   />
 </p>
