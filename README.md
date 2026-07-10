@@ -34,7 +34,7 @@
 </p>
 <p align="center">
   <img
-    width="80%"
+    width="70%"
     src="https://streak-stats.demolab.com?user=ResiduosCodeur&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&border_color=30363D"
   />
 </p>
