@@ -27,11 +27,11 @@
 <p align="center">
   <img
     width="45%"
-    src="https://github-readme-stats-psi-sepia-84.vercel.app/api?username=ResiduosCodeur&show_icons=true&theme=radical&hide_border=true&hide_rank=true&card_height=250&hide_title=true"
+    src="https://github-readme-stats-psi-sepia-84.vercel.app/api?username=ResiduosCodeur&show_icons=true&theme=radical&hide_border=true&hide_rank=true&card_height=200&hide_title=true"
   />
   <img
-    width="35%"
-    src="https://github-readme-stats-psi-sepia-84.vercel.app/api/top-langs/?username=ResiduosCodeur&layout=compact&theme=radical&hide_border=true&langs_count=10&card_height=250&hide_title=true"
+    width="40%"
+    src="https://github-readme-stats-psi-sepia-84.vercel.app/api/top-langs/?username=ResiduosCodeur&layout=compact&theme=radical&hide_border=true&langs_count=8&card_height=250&hide_title=true"
   />
 </p>
 
