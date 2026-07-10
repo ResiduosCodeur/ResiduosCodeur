@@ -21,24 +21,21 @@
 - 💰 **[TrackIt](https://github.com/ResiduosCodeur/Trackit)** — Expense sharing and group settlement platform.
 
 ---
-
 ## 📊 GitHub Stats
-
 <p align="center">
   <img
-    width="45%"
-    src="https://github-readme-stats-psi-sepia-84.vercel.app/api?username=ResiduosCodeur&show_icons=true&theme=radical&hide_border=true&hide_rank=true&card_height=200&hide_title=true"
+    height="160"
+    src="https://github-readme-stats-psi-sepia-84.vercel.app/api?username=ResiduosCodeur&show_icons=true&hide_border=false&hide_rank=true&card_width=450&card_height=200&hide_title=true&bg_color=0D1117&title_color=58A6FF&icon_color=8B949E&text_color=C9D1D9&border_color=30363D"
   />
   <img
-    width="40%"
-    src="https://github-readme-stats-psi-sepia-84.vercel.app/api/top-langs/?username=ResiduosCodeur&layout=compact&theme=radical&hide_border=true&langs_count=8&card_height=250&hide_title=true"
+    height="200"
+    src="https://github-readme-stats-psi-sepia-84.vercel.app/api/top-langs/?username=ResiduosCodeur&layout=compact&hide_border=false&langs_count=8&card_width=450&card_height=200&hide_title=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D"
   />
 </p>
-
 <p align="center">
   <img
-    width="80%"
-    src="https://streak-stats.demolab.com?user=ResiduosCodeur&theme=radical&hide_border=true"
+    width="700"
+    src="https://streak-stats.demolab.com?user=ResiduosCodeur&hide_border=false&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&border_color=30363D"
   />
 </p>
 
