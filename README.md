@@ -24,7 +24,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img
-    width="49%"
+    width="47.5%"
     src="https://github-readme-stats-psi-sepia-84.vercel.app/api?username=ResiduosCodeur&show_icons=true&hide_rank=true&card_width=450&card_height=200&hide_title=true&bg_color=0D1117&title_color=58A6FF&icon_color=8B949E&text_color=C9D1D9&border_color=30363D"
   />
   <img
